@@ -1,6 +1,7 @@
 [![Header](https://github.com/Anna-Kurachenko/anna-kurachenko/blob/main/assets/banner1.png)](https://drive.google.com/file/d/1u8H98QWSBoU-R9JalGMnlwhQIKNas_Ee/view?usp=share_link)
 ## I'm a QA Engineer
-## My CV
+
+### My CV
 [Link to my CV](https://drive.google.com/file/d/1u8H98QWSBoU-R9JalGMnlwhQIKNas_Ee/view?usp=share_link)
 
 ### Tools
@@ -20,6 +21,5 @@
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
-### Contacts
+### Socials
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](www.linkedin.com/in/anna-kurachenko)
-[![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=0073b1)](anna.kurachenko3@gmail.com)
