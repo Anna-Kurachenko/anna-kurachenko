@@ -21,5 +21,5 @@
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
-### Socials
-[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](www.linkedin.com/in/anna-kurachenko)
+### Social
+[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anna-kurachenko)
