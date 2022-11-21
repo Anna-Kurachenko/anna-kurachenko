@@ -17,9 +17,9 @@
 ![Slack](https://img.shields.io/badge/Slack-090909?style=for-the-badge&logo=slack&logoColor=FFD700)
 
 ### Testing Documentation
-- [Checklists](https://github.com/artichokeee/checklist)
+- [Checklists](https://github.com/Anna-Kurachenko/checklist)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [Bug-Reports](https://github.com/Anna-Kurachenko/bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
