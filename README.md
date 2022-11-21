@@ -1,4 +1,4 @@
-[![Header](https://github.com/Anna-Kurachenko/anna-kurachenko/blob/main/assets/banner1.png)](https://github.com/Anna-Kurachenko/anna-kurachenko/blob/main/assets/banner.png)
+[![Header](https://github.com/Anna-Kurachenko/anna-kurachenko/blob/main/assets/banner.png)](https://drive.google.com/file/d/1u8H98QWSBoU-R9JalGMnlwhQIKNas_Ee/view?usp=share_link)
 ## I'm a QA Engineer
 
 ### My CV
