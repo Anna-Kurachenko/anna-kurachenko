@@ -5,16 +5,16 @@
 [Link to my CV](https://drive.google.com/file/d/1u8H98QWSBoU-R9JalGMnlwhQIKNas_Ee/view?usp=share_link)
 
 ### Tools
-![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=ffffff)
+![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-![Trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=136be1)
-![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
-![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![Trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=FF0000)
+![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=FF4500)
 ![Fiddler](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![CharlesProxy](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
-![Slack](https://img.shields.io/badge/Slack-090909?style=for-the-badge&logo=slack&logoColor=ffffff)
+![Slack](https://img.shields.io/badge/Slack-090909?style=for-the-badge&logo=slack&logoColor=FFD700)
 
 ### Testing Documentation
 - [Checklists](https://github.com/artichokeee/checklist)
