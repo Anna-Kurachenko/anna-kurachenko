@@ -23,5 +23,13 @@
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
+### About projects
+- [Projects in the field of loans](https://github.com/artichokeee/checklist)
+- [The online school](https://github.com/artichokeee/checklist)
+- [Projects in the field of electronic commerce](https://github.com/artichokeee/checklist)
+- [Art project for the sale of paintings, sculptures and design works](https://github.com/artichokeee/checklist)
+- [The mobile app of corporate messenger](https://github.com/artichokeee/checklist)
+- [CRM system and shop in Telegram (bot)](https://github.com/artichokeee/checklist)
+
 ### Social
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anna-kurachenko)
